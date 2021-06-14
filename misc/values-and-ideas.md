@@ -1,10 +1,14 @@
-## Values, Politics, and Religion
+## Values and Ideas
+
+***DISCLAIMER**: The personal thoughts, ideas, and opinions expressed herein, while not generally original in nature, are my own by conviction. They are here simply for informational purposes for those who are operating out of personal curiosity and intellectual grace/charity. They are subject to revision and change as I acquire knowlege, perspective, and hopefully wisdom.*
+
+***NOTICE**: Any use of these declarations in formulating hiring decisions is not only expressly prohibited by constitutional law, but is also just wrong.*
 
 ### Words Have Meaning
 
-Semantics. To classically trained Computer Scientists, this word 'semantic' is a very strong qualifier. Both in language and practice of the art of computer manipulations. In computers, semantics are very important.
+Semantics. To classically trained Computer Scientists, this word 'semantic' is a very strong qualifier. Both in specific languages and the practice of the art. In computers, semantics are very important.
 
-"It's just semantics." The phrase makes me cringe. Loose linguistic semantics has been a detrimental practice in the braoder public arena for quite a long time. However, with the rise of media-centric group think, the acceleration of redefinitions, whether arbitrarily reimagined, or inaccurately redefined, is eroding cognitively foundational morays of social cohesion. The assertion that post-modern relativistic theories of meaning apply to th language we use or the definitions we give to words of singularly absurd.
+I assert that semantic meaning is exceedingly important in communication. "It's just semantics." The phrase makes me cringe. Loose linguistic semantics has been a detrimental practice in the braoder public arena for quite a long time. However, with the rise of media-centric group think, the acceleration of redefinitions, whether arbitrarily reimagined, or inaccurately redefined, is eroding cognitively foundational morays of social cohesion. The assertion that post-modern relativistic theories of meaning apply to th language we use or the definitions we give to words of singularly absurd.
 
 "Bad", meaning good, or "fly" meaning sublimely acceptable, by example, are one thing. (Technically incorrect and confusing to those untrained in cultural vernacular.) Calling a political sub-group "evangelical" or referring to a totalizing narrative as "critical" is a fundamental obfuscation of rational meaning.
 
