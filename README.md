@@ -1,8 +1,10 @@
-### Hi there 👋
+### Greetings 👋
 
 My name is Ben. Amongst many other roles, I am a professional Software Engineer 🛠️
 
 If you have landed on this page, I will assume you want to know more about me.
+
+***Quick Note**: I am in process of consolidating and cleaning up personal accounts. Most of my code activity over the past 2 years lives in a non-public "organizational" account. If you are a hiring manager and looking for code samples, please contact me directly.*
 
 ---
 
