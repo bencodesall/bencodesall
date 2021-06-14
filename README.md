@@ -136,7 +136,7 @@ In addition to being a professional Software Engineer, I am also engaged in a ha
 ⚰️
 ☕
 
-🔗
+[🔗](misc/README.md)
 🧰
 🔐
 🔑
