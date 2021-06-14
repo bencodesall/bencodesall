@@ -121,14 +121,14 @@ In addition to being a professional Software Engineer, I am also engaged in a ha
 - Vegimite
 
 
+### Favorite Emojis
+
+    📁     ./folder/
+    |- 📄  file.txt
 
 🇦🇺
 ✅
-©️
-®️
-™️
 ❌
-✝️
 ⚠️
 🚫
 ⚰️
@@ -184,3 +184,4 @@ Here's some other personal favorites
 🗑️
 ✏️
 -->
+
