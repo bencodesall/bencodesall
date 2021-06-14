@@ -1,6 +1,6 @@
-### Greetings 👋
+### Greetings
 
-My name is Ben. Amongst many other roles, I am a professional Software Engineer 🛠️
+My name is Ben 👋. Amongst many other roles, I am a professional Software Engineer. 🛠️
 
 If you have landed on this page, I will assume you want to know more about me.
 
