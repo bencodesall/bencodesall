@@ -30,9 +30,9 @@ These are the things I use on an almost daily basis at work, and in my personal 
 
 **Frameworks / Libraries / Technologies / Stacks**
 
+- Next.js
 - AWS
 - JAM
-- SSG (Static Site Generation)
 - Node.js
 - Serverless
 - Docker
