@@ -155,7 +155,7 @@ In addition to being a professional Software Engineer, I am also engaged in a ha
 📌
 🗑️
 ✏️
-<a href="/misc/README.md" style="color: white">MISC</a>
+<a href="/misc/README.md" style="color: white; text-decoraton: none">MISC</a>
 <!--
 **bencodesall/bencodesall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
