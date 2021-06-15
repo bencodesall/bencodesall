@@ -108,11 +108,22 @@ In addition to being a professional Software Engineer, I am also engaged in a ha
 - Scale Modeler
 - Wannabe DIY-er / Maker
 
-## Other Information / Randomeness
+## Other / Fun Facts / Random
+
+## Stuff
+
+- 🔭 I’m currently working on serverless/golang/mahjong game
+- 🌱 I’m currently studying Golang microservices containerization
+- 👯 I’m looking to collaborate on ...???
+- 🤔 I’m looking for help with ... All The Things?
+- 💬 Ask me about why I am experimenting with veganism
+- 📫 How to reach me see the email on [bencodesall.github.io](https://bencodesall.github.io)
+- 😄 Pronouns: Call me whatever, ... just don't call me late for dinner.
+- ⚡ Fun fact: I was a Radio DJ at 2 student-run colleges radio stations
 
 ### Favorite Quotes
 
-*NOTE: Potentially paraphrased and/or incorrectly attributed*
+^*NOTE: Potentially paraphrased and/or incorrectly attributed*^
 
 > We are perishing for lack of wonder, not from lack of wonders
 >
@@ -135,7 +146,6 @@ In addition to being a professional Software Engineer, I am also engaged in a ha
 🚫
 ⚰️
 ☕
-
 [🔗](misc/README.md)
 🧰
 🔐
