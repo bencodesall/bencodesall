@@ -123,7 +123,7 @@ In addition to being a professional Software Engineer, I am also engaged in a ha
 
 ### Favorite Quotes
 
-^*NOTE: Potentially paraphrased and/or incorrectly attributed*^
+<sup>*NOTE: Potentially paraphrased and/or incorrectly attributed*<sub>
 
 > We are perishing for lack of wonder, not from lack of wonders
 >
