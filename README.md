@@ -139,23 +139,23 @@ In addition to being a professional Software Engineer, I am also engaged in a ha
     📁     ./folder/
     |- 📄  file.txt
 
+:shipit:
 🇦🇺
 ✅
 ❌
+[🔗](misc/README.md)
 ⚠️
 🚫
 ⚰️
 ☕
-[🔗](misc/README.md)
 🧰
 🔐
 🔑
-:shipit:
 📆
 📌
 🗑️
 ✏️
-<a href="/misc/README.md" style="color:#FFFFFF;text-decoraton:none!important">MISC</a>
+
 <!--
 **bencodesall/bencodesall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
