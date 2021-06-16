@@ -1,8 +1,24 @@
-### Greetings
+## Greetings
 
 My name is Ben 👋. Amongst many other roles, I am a professional Software Engineer. 🛠️
 
 If you have landed on this page, I will assume you want to know more about me.
+
+## Introductory Info
+
+A few "metrics" for consideration.
+
+### Personality
+
+While I don't generally like general categories for people, especially myself, I do find it useful info to share the metrics below. Do with them what you will, but understand they don't define me. :stuck_out_tongue_winking_eye:
+
+- Myers-Briggs
+  - ESTJ at work
+  - INFP outside of work
+- [DiSC](/images/discmap.png)
+  - Hard DC *(Dominance/Conscientiousness)* : Direct, Firm, Strong-willed, Forceful, Results-oriented, Analytical, Reserved, Precise, Private, Systematic
+- Gallup Strengths Finder
+  - Learner, Input, Intellection, Strategic, Belief
 
 ***Quick Note**: I am in process of consolidating and cleaning up personal accounts. Most of my code activity over the past 2 years lives in a non-public "organizational" account. If you are a hiring manager and looking for code samples, please contact me directly.*
 
@@ -31,11 +47,11 @@ These are the things I use on an almost daily basis at work, and in my personal 
 **Frameworks / Libraries / Technologies / Stacks**
 
 - Next.js
-- AWS
+- AWS (RDS/EC2/ECS/SSM/SQS/Lambda/DynamoDB)
 - JAM
 - Node.js
-- Serverless
 - Docker
+- Shell Programming (zsh / bash)
 
 ### Secondary
 
@@ -79,7 +95,7 @@ Here are the tools I use personally and professionally
 
 I have generally leaned towards *macOS*. For me it provides a good balance of very good developer experience, solid multimedia production support, and flexibility through tooling.
 
-Although, being truly platform agnostic, I am neither a *macOS* or *Windows* "person".
+Although, being truly platform agnostic, **I am neither a *macOS* or *Windows* "person"**.
 
 I like *debian, FreeBSD, and Lubuntu* flavors of Linux. I will use Windows if forced too (i.e. gaming, or work). I am quite proficient in just about any mainline environment, and a few less visible ones (SCO Linux anyone?) :wink:
 
