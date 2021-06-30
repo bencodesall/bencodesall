@@ -4,6 +4,8 @@ My name is Ben 👋. Amongst many other roles, I am a professional Software Engi
 
 If you have landed on this page, I will assume you want to know more about me.
 
+***Quick Note**: Most of my code activity over the past 2 years has almost exclusively been for work and lives in a "work" account ([here](https://github.com/rv-bnowak)) with no publicly accessible repos. If you are a hiring manager and looking for code samples, please contact me directly.*
+
 ## Introductory Info
 
 A few "metrics" for consideration.
@@ -13,14 +15,12 @@ A few "metrics" for consideration.
 While I don't generally like general categories for people, especially myself, I do find it useful info to share the metrics below. Do with them what you will, but understand they don't define me. :stuck_out_tongue_winking_eye:
 
 - Myers-Briggs
-  - ESTJ at work
-  - INFP outside of work
+  - [I/ESTJ](https://www.truity.com) at work
+  - [INFP/TJ](https://www.truity.com) outside of work
 - [DiSC](/images/discmap.png)
   - Hard DC *(Dominance/Conscientiousness)* : Direct, Firm, Strong-willed, Forceful, Results-oriented, Analytical, Reserved, Precise, Private, Systematic
 - Gallup Strengths Finder
   - Learner, Input, Intellection, Strategic, Belief
-
-***Quick Note**: I am in process of consolidating and cleaning up personal accounts. Most of my code activity over the past 2 years lives in a non-public "organizational" account. If you are a hiring manager and looking for code samples, please contact me directly.*
 
 ---
 
