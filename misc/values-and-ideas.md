@@ -56,7 +56,7 @@ There are two fundamental understandings that underpin everything for me. Not ju
 
 "What is truth?" I've often wondered if Pontius Pilot had any deep personal understanding of the ultimate import of the question he asked, what the answer is, and how one goes about answering this one question. It is surely one of the "big ones", in terms of ontological and epistemological import. A few definitions might be helpful here.
 
-- **Ontology** : Study of the nature of reality
-- **Epistemology** Study of the processes around and structures used in defining truth
+- **Ontology** : Study of the nature of reality in material as well as social, cultural, and political contexts.
+- **Epistemology** Study of theories of knowledge. This implies a concern with understanding how we understand things as true or untrue.
 
 These are deep and weighty technical terms in philosophy. And these terms matter greatly. These areas underpin the reasoned and reasonable landscape of ideas when we talk about truth.

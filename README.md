@@ -12,15 +12,15 @@ A few "metrics" for consideration.
 
 ### Personality
 
-While I don't generally like general categories for people, especially myself, I do find it useful info to share the metrics below. Do with them what you will, but understand they don't define me. :stuck_out_tongue_winking_eye:
+While I don't usually like general categories for people, especially myself, I do find it useful info to share. Do with them what you will, but understand they don't define me. :stuck_out_tongue_winking_eye:
 
 - Myers-Briggs
   - [I/ESTJ](https://www.truity.com) at work
   - [INFP/TJ](https://www.truity.com) outside of work
 - [DiSC](/images/discmap.png)
-  - Hard DC *(Dominance/Conscientiousness)* : Direct, Firm, Strong-willed, Forceful, Results-oriented, Analytical, Reserved, Precise, Private, Systematic
+  - DC *(Dominance/Conscientiousness)* : Direct, Firm, Results-oriented, Analytical, Reserved, Precise, Private, Systematic
 - Gallup Strengths Finder
-  - Learner, Input, Intellection, Strategic, Belief
+  - Learner, Inputs, Intellection, Strategic, Belief
 
 ---
 
@@ -36,6 +36,7 @@ These are the things I use on an almost daily basis at work, and in my personal 
 
 - JavaScript / TypeScript
 - Golang
+- Python
 
 **Other Languages**
 
@@ -52,6 +53,7 @@ These are the things I use on an almost daily basis at work, and in my personal 
 - Node.js
 - Docker
 - Shell Programming (zsh / bash)
+- HCL/Terraform
 
 ### Secondary
 
@@ -59,7 +61,6 @@ If I work in it occassionaly and/or am interested in it, it's in this list
 
 **Languages**
 
-- Python
 - Rust
 - Ruby
 - Erlang
@@ -101,9 +102,10 @@ I like *debian, FreeBSD, and Lubuntu* flavors of Linux. I will use Windows if fo
 
 ### Software
 
-- JetBrains Toolbox (IntelliJ, WebStorm, PyCharm, DataGrip, etc.)
+- JetBrains Toolbox (IntelliJ, WebStorm, Goland, PyCharm, DataGrip, etc.)
 - Tower (git client)
 - iTerm
+- vim
 - VisualStudio Code
 - Adobe CC (XD, Illustrator, Photoshop, Premiere Pro, AfterEffects)
 - Figma
@@ -130,7 +132,7 @@ In addition to being a professional Software Engineer, I am also engaged in a ha
 
 - 🔭 I’m currently working on serverless/golang/mahjong game
 - 🌱 I’m currently studying Golang microservices containerization
-- 👯 I’m looking to collaborate on ...???
+- 👯 I’m looking to collaborate on interesting Go, Python, or Rust projects with well organized teams using sane processes that are interested in building up the entire team
 - 🤔 I’m looking for help with ... All The Things?
 - 💬 Ask me about why I am experimenting with veganism
 - 📫 How to reach me see the email on [bencodesall.github.io](https://bencodesall.github.io)
@@ -141,7 +143,7 @@ In addition to being a professional Software Engineer, I am also engaged in a ha
 
 <sup>*NOTE: Potentially paraphrased and/or incorrectly attributed*<sub>
 
-> We are perishing for lack of wonder, not from lack of wonders
+>"We perish for lack of wonder, not for lack of wonders."
 >
 > *G.K. Chesterton*
 
