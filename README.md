@@ -21,6 +21,8 @@ While I don't usually like general categories for people, especially myself, I d
   - DC *(Dominance/Conscientiousness)* : Direct, Firm, Results-oriented, Analytical, Reserved, Precise, Private, Systematic
 - Gallup Strengths Finder
   - Learner, Inputs, Intellection, Strategic, Belief
+- Eniagram
+  - people say I'm a solid 5. _I firmly reject this "personality" test, out-of-hand, because it is directly descended from occult, numerological, esoteric systems developed by Gurdjieff-ian mysticism._
 
 ---
 
