@@ -119,9 +119,10 @@ I like *debian, FreeBSD, and Lubuntu* flavors of Linux. I will use Windows if fo
 
 In addition to being a professional Software Engineer, I am also engaged in a handful of other roles either quasi-professionally, or "just for fun."
 
-- Son / Husband / Father
+- Son / Father
 - Armchair Theologian/Philosopher
-- Deacon
+- Musician / Producer
+- 3D CAD and Modeling Amateur
 - Fisherman
 - Aspiring Outdoors-person
 - Flailing (non-practicing) Brew Master
