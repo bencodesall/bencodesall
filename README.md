@@ -22,7 +22,7 @@ While I don't usually like general categories for people, especially myself, I d
 - Gallup Strengths Finder
   - Learner, Inputs, Intellection, Strategic, Belief
 - Eniagram
-  - people say I'm a solid 5. _I firmly reject this "personality" test, out-of-hand, because it is directly descended from occult, numerological, esoteric systems developed by Gurdjieff-ian mysticism._
+  - people say I'm a solid 5. _I mostly reject this "personality" test, out-of-hand, because has very flimsy empirical validation of testing and results. I see it more like a mood ring than a true representation of personality. If it helps you, fine. Just don't call me a number._
 
 ---
 
